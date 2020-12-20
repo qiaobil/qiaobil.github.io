@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://qiaobil.github.io</id>
+    <title>猫的梦</title>
+    <updated>2020-12-20T19:20:17.423Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://qiaobil.github.io"/>
+    <link rel="self" href="https://qiaobil.github.io/atom.xml"/>
+    <subtitle>做你的猫</subtitle>
+    <logo>https://qiaobil.github.io/images/avatar.png</logo>
+    <icon>https://qiaobil.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, 猫的梦</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello,World]]></title>
+        <id>https://qiaobil.github.io/post/001/</id>
+        <link href="https://qiaobil.github.io/post/001/">
+        </link>
+        <updated>2020-12-20T19:12:44.000Z</updated>
+    </entry>
+</feed>
